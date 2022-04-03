@@ -1,0 +1,13 @@
+C:\Users\SpurSol-Shamail\source\repos\CleanArchitectureDemo\WeatherForecastClean.Application\bin\Debug\netcoreapp3.1\WeatherForecastClean.Application.deps.json
+C:\Users\SpurSol-Shamail\source\repos\CleanArchitectureDemo\WeatherForecastClean.Application\bin\Debug\netcoreapp3.1\WeatherForecastClean.Application.dll
+C:\Users\SpurSol-Shamail\source\repos\CleanArchitectureDemo\WeatherForecastClean.Application\bin\Debug\netcoreapp3.1\WeatherForecastClean.Application.pdb
+C:\Users\SpurSol-Shamail\source\repos\CleanArchitectureDemo\WeatherForecastClean.Application\bin\Debug\netcoreapp3.1\WeatherForecastClean.Core.dll
+C:\Users\SpurSol-Shamail\source\repos\CleanArchitectureDemo\WeatherForecastClean.Application\bin\Debug\netcoreapp3.1\WeatherForecastClean.Core.pdb
+C:\Users\SpurSol-Shamail\source\repos\CleanArchitectureDemo\WeatherForecastClean.Application\obj\Debug\netcoreapp3.1\WeatherForecastClean.Application.csproj.AssemblyReference.cache
+C:\Users\SpurSol-Shamail\source\repos\CleanArchitectureDemo\WeatherForecastClean.Application\obj\Debug\netcoreapp3.1\WeatherForecastClean.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SpurSol-Shamail\source\repos\CleanArchitectureDemo\WeatherForecastClean.Application\obj\Debug\netcoreapp3.1\WeatherForecastClean.Application.AssemblyInfoInputs.cache
+C:\Users\SpurSol-Shamail\source\repos\CleanArchitectureDemo\WeatherForecastClean.Application\obj\Debug\netcoreapp3.1\WeatherForecastClean.Application.AssemblyInfo.cs
+C:\Users\SpurSol-Shamail\source\repos\CleanArchitectureDemo\WeatherForecastClean.Application\obj\Debug\netcoreapp3.1\WeatherForecastClean.Application.csproj.CoreCompileInputs.cache
+C:\Users\SpurSol-Shamail\source\repos\CleanArchitectureDemo\WeatherForecastClean.Application\obj\Debug\netcoreapp3.1\WeatherForecastClean.Application.csproj.CopyComplete
+C:\Users\SpurSol-Shamail\source\repos\CleanArchitectureDemo\WeatherForecastClean.Application\obj\Debug\netcoreapp3.1\WeatherForecastClean.Application.dll
+C:\Users\SpurSol-Shamail\source\repos\CleanArchitectureDemo\WeatherForecastClean.Application\obj\Debug\netcoreapp3.1\WeatherForecastClean.Application.pdb

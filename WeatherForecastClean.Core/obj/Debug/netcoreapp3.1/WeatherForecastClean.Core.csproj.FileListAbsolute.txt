@@ -1,0 +1,10 @@
+C:\Users\SpurSol-Shamail\source\repos\CleanArchitectureDemo\WeatherForecastClean.Core\bin\Debug\netcoreapp3.1\WeatherForecastClean.Core.deps.json
+C:\Users\SpurSol-Shamail\source\repos\CleanArchitectureDemo\WeatherForecastClean.Core\bin\Debug\netcoreapp3.1\WeatherForecastClean.Core.dll
+C:\Users\SpurSol-Shamail\source\repos\CleanArchitectureDemo\WeatherForecastClean.Core\bin\Debug\netcoreapp3.1\WeatherForecastClean.Core.pdb
+C:\Users\SpurSol-Shamail\source\repos\CleanArchitectureDemo\WeatherForecastClean.Core\obj\Debug\netcoreapp3.1\WeatherForecastClean.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SpurSol-Shamail\source\repos\CleanArchitectureDemo\WeatherForecastClean.Core\obj\Debug\netcoreapp3.1\WeatherForecastClean.Core.AssemblyInfoInputs.cache
+C:\Users\SpurSol-Shamail\source\repos\CleanArchitectureDemo\WeatherForecastClean.Core\obj\Debug\netcoreapp3.1\WeatherForecastClean.Core.AssemblyInfo.cs
+C:\Users\SpurSol-Shamail\source\repos\CleanArchitectureDemo\WeatherForecastClean.Core\obj\Debug\netcoreapp3.1\WeatherForecastClean.Core.csproj.CoreCompileInputs.cache
+C:\Users\SpurSol-Shamail\source\repos\CleanArchitectureDemo\WeatherForecastClean.Core\obj\Debug\netcoreapp3.1\WeatherForecastClean.Core.dll
+C:\Users\SpurSol-Shamail\source\repos\CleanArchitectureDemo\WeatherForecastClean.Core\obj\Debug\netcoreapp3.1\WeatherForecastClean.Core.pdb
+C:\Users\SpurSol-Shamail\source\repos\CleanArchitectureDemo\WeatherForecastClean.Core\obj\Debug\netcoreapp3.1\WeatherForecastClean.Core.csproj.AssemblyReference.cache
